@@ -1,8 +1,7 @@
 
-# Título do Projeto
+# Openai_clone
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
+Projeto visa conectar a api da openai no server em node e montar uma ui com reactJs 
 
 ## Rodando localmente
 
