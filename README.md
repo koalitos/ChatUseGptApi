@@ -57,6 +57,7 @@ Inicie o react
 ```http
   Post /api/prompt
 ```
+OPENAI_API_KEY fica dentro do arquivo .env do diretório do server
 
 | Parâmetro   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
